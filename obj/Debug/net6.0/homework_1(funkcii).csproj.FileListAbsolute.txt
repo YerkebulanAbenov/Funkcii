@@ -1,0 +1,15 @@
+C:\Users\KazInfoSystems\Desktop\Новая папка (3)\task\task2\Funkcii\homework_1(funkcii)\bin\Debug\net6.0\homework_1(funkcii).exe
+C:\Users\KazInfoSystems\Desktop\Новая папка (3)\task\task2\Funkcii\homework_1(funkcii)\bin\Debug\net6.0\homework_1(funkcii).deps.json
+C:\Users\KazInfoSystems\Desktop\Новая папка (3)\task\task2\Funkcii\homework_1(funkcii)\bin\Debug\net6.0\homework_1(funkcii).runtimeconfig.json
+C:\Users\KazInfoSystems\Desktop\Новая папка (3)\task\task2\Funkcii\homework_1(funkcii)\bin\Debug\net6.0\homework_1(funkcii).dll
+C:\Users\KazInfoSystems\Desktop\Новая папка (3)\task\task2\Funkcii\homework_1(funkcii)\bin\Debug\net6.0\homework_1(funkcii).pdb
+C:\Users\KazInfoSystems\Desktop\Новая папка (3)\task\task2\Funkcii\homework_1(funkcii)\obj\Debug\net6.0\homework_1(funkcii).csproj.AssemblyReference.cache
+C:\Users\KazInfoSystems\Desktop\Новая папка (3)\task\task2\Funkcii\homework_1(funkcii)\obj\Debug\net6.0\homework_1(funkcii).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KazInfoSystems\Desktop\Новая папка (3)\task\task2\Funkcii\homework_1(funkcii)\obj\Debug\net6.0\homework_1(funkcii).AssemblyInfoInputs.cache
+C:\Users\KazInfoSystems\Desktop\Новая папка (3)\task\task2\Funkcii\homework_1(funkcii)\obj\Debug\net6.0\homework_1(funkcii).AssemblyInfo.cs
+C:\Users\KazInfoSystems\Desktop\Новая папка (3)\task\task2\Funkcii\homework_1(funkcii)\obj\Debug\net6.0\homework_1(funkcii).csproj.CoreCompileInputs.cache
+C:\Users\KazInfoSystems\Desktop\Новая папка (3)\task\task2\Funkcii\homework_1(funkcii)\obj\Debug\net6.0\homework_1(funkcii).dll
+C:\Users\KazInfoSystems\Desktop\Новая папка (3)\task\task2\Funkcii\homework_1(funkcii)\obj\Debug\net6.0\refint\homework_1(funkcii).dll
+C:\Users\KazInfoSystems\Desktop\Новая папка (3)\task\task2\Funkcii\homework_1(funkcii)\obj\Debug\net6.0\homework_1(funkcii).pdb
+C:\Users\KazInfoSystems\Desktop\Новая папка (3)\task\task2\Funkcii\homework_1(funkcii)\obj\Debug\net6.0\homework_1(funkcii).genruntimeconfig.cache
+C:\Users\KazInfoSystems\Desktop\Новая папка (3)\task\task2\Funkcii\homework_1(funkcii)\obj\Debug\net6.0\ref\homework_1(funkcii).dll
